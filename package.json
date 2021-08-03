@@ -1,0 +1,19 @@
+{
+  "name": "botteste",
+  "version": "1.0.0",
+  "description": "teste um",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raul152",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord-streaming": "^1.4.1",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0",
+    "googleapis": "^83.0.0",
+    "ytdl-core": "^4.9.0"
+  }
+}
