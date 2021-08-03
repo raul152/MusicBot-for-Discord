@@ -1,5 +1,6 @@
 # MusicBot-for-Discord
 Bot de música feito utilizando JS com o intuito de matar a curiosidade.
+
 Atualmente é possível:
 1 - Escolher uma música por nome e link direto;
 2 - Adicionar músicas em uma fila de execução;
