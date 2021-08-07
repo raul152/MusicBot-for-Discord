@@ -1,7 +1,8 @@
 {
     "TOKEN_DISCORD": "seutokendiscordaqui",
     "GOOGLE_KEY": "suagooglekeyaqui",
-    "PREFIX": "&",
+    "PREFIX": "seuprefixoaqui",
+    "IMAGEURL": "suaimagemaqui",
     "YTDL": {
         "filter": "audioonly"
     }
